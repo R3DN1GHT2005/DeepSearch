@@ -128,3 +128,5 @@ link:wikipedia.org       → Pages linking to Wikipedia
 ```
 
 ---
+<img width="487" height="991" alt="poza" src="https://github.com/user-attachments/assets/a8523344-5117-4239-b706-51d0999eb4ee" />
+
